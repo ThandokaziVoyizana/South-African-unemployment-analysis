@@ -1,6 +1,5 @@
-# South-African-unemployment-analysis
 
-# Unemployment Data Analysis (South Africa / Global)
+# Unemployment Data Analysis (South Africa)
 
 ## Overview
 This project analyses unemployment trends and visualises data using Python.
